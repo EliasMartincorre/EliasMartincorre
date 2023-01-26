@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Documento</title>
+    <title>Curriculum Vitae</title>
 </head>
 <body>
 
@@ -13,12 +13,21 @@
   </header>
 
   <section>
-      <h2>Mi lista</h2>
+      <h2>Abaout me</h2>
       <ul>
-        <li>Punto 1</li>
-        <li>Punto 2</li>
-        <li>Punto 3</li>
+        <li>I was born in 1988.</li>
+        <li>I´m married and have two child.</li>
+        <li>I live in Canelones-Uruguay.</li>
+        <li>I enjoy working in group projects. </li>
       </ul>
+      <h2>My Soft Skills</h2>
+      <ol>
+      <li>Analytical thinking.</li>
+      <li>Active learning.</li>
+      <li>Creativity</li>
+      <li>Initiative</li>
+      <li>Problem solving.</li>
+      </ol>
   </section>
 
   <section>
