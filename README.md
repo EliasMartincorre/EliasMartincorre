@@ -16,6 +16,7 @@
       <h2>Abaout me</h2>
       <ul>
         <li>I was born in 1988.</li>
+        <details>Born in the city of Paysandu</details>
         <li>I´m married and have two child.</li>
         <li>I live in Canelones-Uruguay.</li>
         <li>I enjoy working in group projects. </li>
