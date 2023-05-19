@@ -4,12 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Curriculum Vitae </title>
+    
 </head>
 <body>
 
   <header>
-  <a href="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/users/photos/000/005/715/thumb/Mart%C3%ADn_Correa.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230126%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230126T155728Z&X-Amz-Expires=600&X-Amz-SignedHeaders=host&X-Amz-Signature=b23d5d46864c4712ecc95dabeeac75dc29ff80d51c6f1828b11d2e27dda09d5e"><img border="0" alt="My photo" src="imagen.png"</a>
       <h1>Martin Elias Correa Poggio .Developer</h1>
       <a href="mailto:martincorrea792@gmail.com">Send mail</a>
       <a href="tel:598092625918">098925618</a>
